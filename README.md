@@ -1,2 +1,2 @@
 # Gsap
-Gsap cdn library 
+Gsap cdn library for high-perfomance animations
